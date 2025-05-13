@@ -1,3 +1,3 @@
 # PeuLuiz
 
-Nome: Pedro Luiz Lopes Pereira
+Name: Pedro Luiz Lopes Pereira
